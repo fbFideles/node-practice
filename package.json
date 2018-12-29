@@ -16,5 +16,6 @@
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.4"
-  }
+  },
+  "repository": "https://github.com/fbFideles/Pratice-node.git"
 }

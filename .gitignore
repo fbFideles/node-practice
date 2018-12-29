@@ -6,3 +6,4 @@ README.txt
 
 # Ignore package cache
 package-lock.json
+yarn.lock
