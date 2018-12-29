@@ -2,8 +2,11 @@
 node_modules/
 
 # Ignore README.txt
-README.txt
+README.md
 
 # Ignore package cache
 package-lock.json
 yarn.lock
+
+# Ignore LICENSE
+LICENSE
